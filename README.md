@@ -36,3 +36,13 @@ Read the [workflow](docs/workflow.md) for deliverables, boundaries, and a fictio
 This is a workflow, not a gallery of someone else's identity or artwork. Photos, exports, and working files belong outside the public skill package. Check any assets' licensing before publication.
 
 Contributions are welcome: see [CONTRIBUTING.md](CONTRIBUTING.md). Licensed under [MIT](LICENSE).
+
+## Creator and support
+
+Created by [Bilawal Baig](https://github.com/bilawalbaig8). Generated profile READMEs include this visible footer by default, shown in the preview for both animated and static versions:
+
+Built with [GitHub Profile Studio](https://github.com/bilawalbaig8/github-profile-studio) by [Bilawal Baig](https://github.com/bilawalbaig8).
+
+You may explicitly opt out of the footer. It credits the workflow's creator, not ownership or authorship of your identity, artwork, or career. The MIT license requires preserving its copyright and permission notice in distributed copies or substantial portions of the covered software; it does not require this footer on every generated output. The [license](LICENSE) is unchanged.
+
+If the workflow helps, you can optionally [star GitHub Profile Studio](https://github.com/bilawalbaig8/github-profile-studio). The agent may offer that invitation once at successful handoff. Stars are voluntary: no automatic starring, hooks, credentials, tracking, usage gates, or repeated requests.
